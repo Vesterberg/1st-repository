@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1435691750 source:/home/blackbox/1st-repository/d2e12.13 - main () function exploring/main.cpp
+	<iostream>
+

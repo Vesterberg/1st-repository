@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435686863 source:/home/blackbox/1st-repository/d2e12.6 - pythagoras theorem/main.cpp
+	<iostream>
+	<cmath>
+

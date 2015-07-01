@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1435691440 source:/home/blackbox/1st-repository/d2e12.11 - boolean outdata/main.cpp
+	<iostream>
+

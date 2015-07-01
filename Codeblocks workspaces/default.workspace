@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../d2e11.4 - pointers/d2e11.4 - pointers.cbp" />
+		<Project filename="../d2o12.5 - agetest/d2o12.5 - agetest.cbp" />
+		<Project filename="../d2o12.6 - Hello Char pointers/d2o12.6 - Hello Char pointers.cbp" />
+		<Project filename="../d2e12.6 - pythagoras theorem/d2e12.6 - pythagoras theorem.cbp" />
+		<Project filename="../d2e12.8 - MyMethod example of variables life length in functions/d2e12.8 - MyMethod example of variables life length in functions.cbp" />
+		<Project filename="../d2e12.5 - Celcius to farenheit converter/d2e12.5 - Celcius to farenheit converter.cbp" />
+		<Project filename="../d2e12.9 - MyMethod variables life length - using refences/d2e12.9 - MyMethod variables life length - using refences.cbp" />
+		<Project filename="../d2e12.10 - MyMethod - variable name changes /d2e12.10 - MyMethod - variable name changes .cbp" />
+		<Project filename="../d2e12.11 - boolean outdata/d2e12.11 - boolean outdata.cbp" />
+		<Project filename="../d2e12.12 - main () function exploring/d2e12.12 - main () function exploring.cbp" />
+		<Project filename="../d2e12.13 - main () function exploring/d2e12.13 - main () function exploring.cbp" />
+		<Project filename="../d2e12.14 - testing vektor argv/d2e12.14 - testing vektor argv.cbp" />
+		<Project filename="../d2e12.15 - testing if else statements with vektors/d2e12.15 - testing if else statements with vektors.cbp" />
+		<Project filename="../d2e12.16 - CelciusToFahrenheit float mod/d2e12.16 - CelciusToFahrenheit float mod.cbp" />
+		<Project filename="../d2e12.17 - boilingapp - function file creation/d2e12.17 - boilingapp - function file creation.cbp" />
+		<Project filename="../d2e12.3 - function with indata/e12.3 - function with indata.cbp" />
+		<Project filename="../d2o12.8 - TemperatureProgram CTF+Converter/d2o12.8 - TemperatureProgram CTF+Converter.cbp" />
+		<Project filename="../d2o12.7 - Terminal menu/d2o12.7 - Terminal menu.cbp" />
+		<Project filename="../d2e7.32 - Terminal menu example/d2e7.32 - Terminal menu example.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
