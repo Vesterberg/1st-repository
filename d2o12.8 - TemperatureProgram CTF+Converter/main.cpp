@@ -2,26 +2,29 @@
 
 using namespace std;
 
-//Celcius to farenheit in one function
-void ctf()
+//Celcius to farenheit "celcius * 9 / 5 + 32" in one function
+float CTF(float celcius)
 {
-    //Function, CelciusToFahrenheit, converts its namesake
-    // Overlayer 1 - with int
-    int CelciusToFahrenheit (int celcius)
-    {
-        //PEMDAS fits so no parentheses are needed
-        int fahrenheit = celcius * 9 / 5 + 32;
-        return fahrenheit;
-    }
+    float fahrenheit = (( celcius * 9) / 5) + 32;
+    return fahrenheit;
+}
+
+// Overlayer 1 - with int
+int CelciusToFahrenheit (int celcius)
+{
+    //PEMDAS fits so no parentheses are needed
+    int fahrenheit = CTF(celcius);
+    return fahrenheit;
+}
 
     //Overlayer 2 - with float
-    float CelciusToFahrenheit (float celcius)
-    {
-        //PEMDAS fits so no parentheses are needed
-        float fahrenheit = celcius * 9 / 5 + 32;
-        return fahrenheit;
-    }
+float CelciusToFahrenheit (float celcius)
+{
+    //PEMDAS fits so no parentheses are needed
+    float fahrenheit = CTF(celcius);
+    return fahrenheit;
 }
+
 
 //Start program
 int main()

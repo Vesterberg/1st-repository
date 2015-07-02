@@ -17,8 +17,12 @@
 		<Project filename="../d2e12.16 - CelciusToFahrenheit float mod/d2e12.16 - CelciusToFahrenheit float mod.cbp" />
 		<Project filename="../d2e12.17 - boilingapp - function file creation/d2e12.17 - boilingapp - function file creation.cbp" />
 		<Project filename="../d2e12.3 - function with indata/e12.3 - function with indata.cbp" />
-		<Project filename="../d2o12.8 - TemperatureProgram CTF+Converter/d2o12.8 - TemperatureProgram CTF+Converter.cbp" />
 		<Project filename="../d2o12.7 - Terminal menu/d2o12.7 - Terminal menu.cbp" />
+		<Project filename="../d2o12.8 - TemperatureProgram CTF+Converter/d2o12.8 - TemperatureProgram CTF+Converter.cbp" />
 		<Project filename="../d2e7.32 - Terminal menu example/d2e7.32 - Terminal menu example.cbp" />
+		<Project filename='../array &quot;temperature&quot;/d2e13.1 - Vector/array &quot;temperature&quot;.cbp' />
+		<Project filename="../d2e13.11 - For looping through a multidimensional array/d2e13.11 - For looping through a multidimensional array.cbp" />
+		<Project filename="../d2e13.10 - For loops with arrays/d2e13.10 - For loops with arrays.cbp" />
+		<Project filename="../d2e13.6 - Array twodimensional/d2e13.6 - Array twodimensional.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
