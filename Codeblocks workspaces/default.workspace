@@ -24,5 +24,16 @@
 		<Project filename="../d2e13.11 - For looping through a multidimensional array/d2e13.11 - For looping through a multidimensional array.cbp" />
 		<Project filename="../d2e13.10 - For loops with arrays/d2e13.10 - For loops with arrays.cbp" />
 		<Project filename="../d2e13.6 - Array twodimensional/d2e13.6 - Array twodimensional.cbp" />
+		<Project filename="../d2e13.12 - Dynamic arrays/d2e13.12 - Dynamic arrays.cbp" />
+		<Project filename="../d2e13.13 - Arrays as arguments in functions/d2e13.13 - Arrays as arguments in functions.cbp" />
+		<Project filename="../d2e13.14 - Arrays as arguments in functions - Copying arrays into functions to maintain the arrays values/d2e13.14 - Arrays as arguments in functions - Copying arrays into functions to maintain the arrays values.cbp" />
+		<Project filename="../d2e12 - Random number generation/d2e12 - Random number generation.cbp" />
+		<Project filename="../d2e13.1 - Arrays, using for-loops to let user set values. Reprints array through another for-loop/d2e13.1 - Arrays, using for-loops to let user set values. Reprints array through another for-loop.cbp" />
+		<Project filename="../d2e13.2 - Arrays, char-vector customization/d2e13.2 - Arrays, char-vector customization.cbp" />
+		<Project filename="../d2o13.3 - Weatherstation/d2o13.3 - Weatherstation.cbp" />
+		<Project filename="../d2upg2.2 - function headers, arrays, and fun stuff/d2upg2.2 - function headers, arrays, and fun stuff.cbp" />
+		<Project filename="../tester/tester.cbp" />
+		<Project filename="../d2 - Division in typechange/d2 - Division in typechange.cbp" />
+		<Project filename="../d3e14.1 - classes/d3e14.1 - classes.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//BROKEN
 int main()
 {
     //Creates array:

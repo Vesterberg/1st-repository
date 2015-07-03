@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1435849827 source:/home/blackbox/1st-repository/d2e12 - Random number generation/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

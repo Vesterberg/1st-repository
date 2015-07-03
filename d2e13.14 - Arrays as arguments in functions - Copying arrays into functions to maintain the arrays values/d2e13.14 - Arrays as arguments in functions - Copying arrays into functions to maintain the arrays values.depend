@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1435848280 source:/home/blackbox/1st-repository/d2e13.14 - Arrays as arguments in functions - Copying arrays into functions to maintain the arrays values/main.cpp
+	<iostream>
+
