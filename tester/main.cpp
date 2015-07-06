@@ -1,25 +1,32 @@
 #include <iostream>
-float medel(int [], int ) ; // no variable names needed -- just the types
+#include <string>
+using namespace std;
 
-int main ()
+class Person
 {
-    const int SIZE = 10;
-    int num [SIZE];
+private:
+	string name;
+	int age;
+public:
 
-    cout << "Welcome to the program. Enter 10 positive numbers: ";
-    for (int i=0; i<SIZE; i++)
-    cin >> num [i];
+	void Print()
+	{
+		cout << "Mannen heter " << name << " och mannen är " << age << " år gammal" << endl;
+	}
 
-    average = medel (num, SIZE);
+	string get_name() { return name; }
+	void set_name(string set){ name = set; }
+	int get_age(){ return age; }
+	void set_age(int set){ age = set; }
 
-    cout << "the average is: " << average;
-    return 0;// 'cause main() returns an int
+};
 
-    float medel(int v[], int n)
-    {
-        float sum=0;// initialize sum
-        for (int j=0;j<n;j++) // loop through the values
-        sum +=v[j]; // add them up
-        return sum/n; // return the average
-    }
+int main()
+{
+	Person myPerson;
+	myPerson.set_name("Emil");
+	myPerson.set_age(25);
+	myPerson.Print();
+	cin.get();
+	return 0;
 }

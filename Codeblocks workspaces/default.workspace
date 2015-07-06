@@ -35,5 +35,10 @@
 		<Project filename="../tester/tester.cbp" />
 		<Project filename="../d2 - Division in typechange/d2 - Division in typechange.cbp" />
 		<Project filename="../d3e14.1 - classes/d3e14.1 - classes.cbp" />
+		<Project filename="../d3e15.1 - Arrays and linear search/d3e15.1 - Arrays and linear search.cbp" />
+		<Project filename="../d3e15.2 - Using linear searches in arrays on classes in arrys/d3e15.2 - Using linear searches in arrays on classes in arrys.cbp" />
+		<Project filename="../d3e15.3 - Bubblesort organizing lists (arrays)/d3e15.3 - Bubblesort organizing lists (arrays).cbp" />
+		<Project filename="../d3e15.6 - Using recursion to create fibonacci numbers/d3e15.6 - Using recursion to create fibonacci numbers.cbp" />
+		<Project filename="../d3u3.1u3.2u3.3 - Classes, linear array search, bubblesort array sorting, for a family of four/d3u3.1u3.2u3.3 - Classes, linear array search, bubblesort array sorting, for a family of four.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

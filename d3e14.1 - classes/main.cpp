@@ -12,7 +12,6 @@ public:
 
 int main()
 {
-    cout << "Hello world!" << endl;
     Dog myDog; // uses the class to create a fictional dog
     myDog.name = "Fido";
     myDog.age = 3;
