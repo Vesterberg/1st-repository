@@ -40,5 +40,7 @@
 		<Project filename="../d3e15.3 - Bubblesort organizing lists (arrays)/d3e15.3 - Bubblesort organizing lists (arrays).cbp" />
 		<Project filename="../d3e15.6 - Using recursion to create fibonacci numbers/d3e15.6 - Using recursion to create fibonacci numbers.cbp" />
 		<Project filename="../d3u3.1u3.2u3.3 - Classes, linear array search, bubblesort array sorting, for a family of four/d3u3.1u3.2u3.3 - Classes, linear array search, bubblesort array sorting, for a family of four.cbp" />
+		<Project filename="../ex/ex.cbp" />
+		<Project filename="../ex2/ex2.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

@@ -9,7 +9,7 @@ private:
 	int age;
 public:
 
-	void Print()
+	void SkrivUt()
 	{
 		cout << "Mannen heter " << name << " och mannen är " << age << " år gammal" << endl;
 	}
@@ -26,7 +26,7 @@ int main()
 	Person myPerson;
 	myPerson.set_name("Emil");
 	myPerson.set_age(25);
-	myPerson.Print();
+	myPerson.SkrivUt();
 	cin.get();
 	return 0;
 }

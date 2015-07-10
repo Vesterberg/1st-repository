@@ -2,19 +2,25 @@
 
 using namespace std;
 
-//Classy class class: contains a person
+//Classy class class: contains a person formula
 class Person
 {
 public:
-    char* name;
-    int personnummer;
+    string name;
+    int age;
 
     //Method: sets info required
-    void SetInfo (char* _name, int _personnummer)
+    void SetInfo (string _name, int _age)
     {
         name = _name;
-        personnummer = _personnummer;
+        age = _age;
     }
+    //Method: prints name and age of every Person
+    void SkrivUt ()
+    {
+        cout << name << ", " << age << endl;
+    }
+
 };
 
 //Function: LinearSearch finds person in a list
@@ -23,8 +29,8 @@ int LinearSearch (Person* personArray, int key)
     for (int i = 0; i < 10; i++) // Searches whole list
     {
         //Are these the numbers you are looking for?
-        if (personArray[i].personnummer == key)
-            return i;
+        if (personArray[i].age == key)
+            return i; // Do you have numbers left to search?
     }
     return -1; // These are not the numbers you are looking for *Waves jedi hand*
 }
@@ -35,7 +41,7 @@ int main()
 {
     cout << "Hello world!" << endl;
 
-    //creates a list of personclass persons and fills it
+    //creates a list of person class persons and fills it
     Person myList[10];
     myList[0].SetInfo("Lisa", 330112);
     myList[1].SetInfo("Pelle", 420721);

@@ -4,10 +4,19 @@ using namespace std;
 
 int main()
 {
-    cout << "Bubblesort" << endl;
+
+    cout << "Without Bubblesort" << endl;
 
     int myList[] = {15, 3, 7, 1, 42};
     int max = 4;
+
+    // Prints entire list
+    for(int i = 0; i < 5; i++)
+    {
+        cout << myList[i] << endl;
+    }
+
+    cout << "With Bubblesort" << endl;
     //outer loop to check the list
     for (int i = 0; i < max; i++)
     {
@@ -26,7 +35,9 @@ int main()
     }
     // Prints entire list
     for(int i = 0; i < 5; i++)
+    {
         cout << myList[i] << endl;
+    }
     cin.get();
     return 0;
 }

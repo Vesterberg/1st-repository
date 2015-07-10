@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1436279232 source:/home/blackbox/1st-repository/tester/main.cpp
+	<iostream>
+	<string>
+
