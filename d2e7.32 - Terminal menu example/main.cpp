@@ -1,5 +1,4 @@
 #include <iostream>
-#include "temperature.h"
 
 using namespace std;
 
@@ -16,7 +15,7 @@ int main()
 
     char menuSelection; //Enables users to pick an option
     cin >> menuSelection;
-    if (menuSelection == 'P' || menuSelection == 'p')
+    if (menuSelection == '1' || menuSelection == '1')
     {
         cout << "Welcome to the game\n";
         //Add gamecode

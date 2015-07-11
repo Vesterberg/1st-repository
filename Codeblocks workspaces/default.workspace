@@ -42,5 +42,8 @@
 		<Project filename="../d3u3.1u3.2u3.3 - Classes, linear array search, bubblesort array sorting, for a family of four/d3u3.1u3.2u3.3 - Classes, linear array search, bubblesort array sorting, for a family of four.cbp" />
 		<Project filename="../ex/ex.cbp" />
 		<Project filename="../ex2/ex2.cbp" />
+		<Project filename="../c++ course 1 compilation terminal software/c++ course 1 compilation terminal software.cbp" />
+		<Project filename="../d2e12.7 - CelciusToFarhenheitconverter v.2 - Itty bitty exploration of variables lifelengths in functions/d2e12.6 - CelciusToFarhenheitconverter v.2 - Itty bitty exploration of variables lifelengths in functions.cbp" />
+		<Project filename="../test/test.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

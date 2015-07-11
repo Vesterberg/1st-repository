@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1435852201 source:/home/blackbox/1st-repository/d2e13.1 - Arrays, using for-loops to let user set values. Reprints array through another for-loop/main.cpp
+	<iostream>
+	<vector>
+

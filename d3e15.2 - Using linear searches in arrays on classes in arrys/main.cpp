@@ -24,12 +24,12 @@ public:
 };
 
 //Function: LinearSearch finds person in a list
-int LinearSearch (Person* personArray, int key)
+int linsok (Person* personArray, int n, int a)
 {
-    for (int i = 0; i < 10; i++) // Searches whole list
+    for (int i = 0; i < n; i++) // Searches whole list
     {
         //Are these the numbers you are looking for?
-        if (personArray[i].age == key)
+        if (personArray[i].age == a)
             return i; // Do you have numbers left to search?
     }
     return -1; // These are not the numbers you are looking for *Waves jedi hand*
@@ -55,7 +55,7 @@ int main()
     myList[9].SetInfo("Eva", 791222);
 
     //Searches list linearly
-    int index = LinearSearch(myList, 920411);
+    int index = linsok(myList, 10, 920411);
 
     //prints results
     if(index == -1)
