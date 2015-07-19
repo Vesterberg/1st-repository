@@ -19,7 +19,7 @@ int main()
     int n = 10;
     int v[n];
 
-    // Assigns array's elements
+    // Assigns values to the array's elements
     v[0] = 1;
     v[1] = 3;
     v[2] = 5;

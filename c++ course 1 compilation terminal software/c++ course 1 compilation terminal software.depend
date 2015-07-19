@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1435714087 source:/home/blackbox/1st-repository/d2o12.7 - Terminal menu/temperature.cpp
+
+1436911152 source:/home/blackbox/1st-repository/c++ course 1 compilation terminal software/main.cpp
+	<iostream>
+	"temperature.h"
+
+1436904526 /home/blackbox/1st-repository/c++ course 1 compilation terminal software/temperature.h
+
+1436904526 source:/home/blackbox/1st-repository/c++ course 1 compilation terminal software/temperature.cpp
+

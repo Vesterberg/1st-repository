@@ -1,0 +1,5 @@
+Skapa vektor med 5 element
+ange summor till varje element
+lägg ihop elementen till en totalsumma med en loop
+Dela elementens totalsumma med antalet element
+Skriv ut "Average nr is: " + svaret
