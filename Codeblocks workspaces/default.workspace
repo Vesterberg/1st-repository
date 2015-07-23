@@ -46,5 +46,9 @@
 		<Project filename="../d2e12.7 - CelciusToFarhenheitconverter v.2 - Itty bitty exploration of variables lifelengths in functions/d2e12.6 - CelciusToFarhenheitconverter v.2 - Itty bitty exploration of variables lifelengths in functions.cbp" />
 		<Project filename="../test/test.cbp" />
 		<Project filename="../p2d1u1/p2d1u1.cbp" />
+		<Project filename="../auto variabl test/auto variabl test.cbp" />
+		<Project filename="../fakturaexempel/fakturaexempel.cbp" />
+		<Project filename="../p2 interest-on-interest/p2 interest-on-interest.cbp" />
+		<Project filename="../p2totaltprismedrabatt/p2totaltprismedrabatt.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

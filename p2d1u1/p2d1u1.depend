@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437357249 source:/home/blackbox/1st-repository/p2d1u1/main.cpp
+	<iostream>
+	<cstdlib>
+
